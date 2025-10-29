@@ -42,5 +42,5 @@ I maintain strict confidentiality regarding proprietary projects and client work
 
 ## Disclaimers
 
-- I use AI to generate this page. Ask me for details.
-- I use auto-committer as I don't want to worry about that everyday.
+- I used AI to generate this page. Ask me for details.
+- I'm using auto-committer as I don't want to worry about that everyday.

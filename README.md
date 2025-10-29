@@ -39,3 +39,8 @@ I maintain strict confidentiality regarding proprietary projects and client work
 ---
 
 *Building reliable software, one commit at a time.* 💻
+
+## Disclaimers
+
+- I use AI to generate this page. Ask me for details.
+- I use auto-committer as I don't want to worry about that everyday.

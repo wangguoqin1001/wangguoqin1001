@@ -39,7 +39,6 @@ My work spans various technical domains including:
 ---
 <sub>
 **Disclaimers**<br>
-- This page contains personal views and tool-assisted content.<br>
 - I used AI to generate this page. Ask me for details.<br>
 - I'm using auto-committer as I don't want to worry about that everyday.
 </sub>
